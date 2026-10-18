@@ -113,16 +113,16 @@ These results describe retrospective performance on the held-out test set, not t
 
 
 ### 1. Customer Churn Distribution
-![Customer Churn Distribution](./images/churn_distribution.png)
+![Customer Churn Distribution](./Images/churn_distribution.png)
 
 ### 2. Churn Rate by Contract Type
-![Churn Rate by Contract Type](./images/churn_rate_by_contract.png)
+![Churn Rate by Contract Type](./Images/churn_rate_by_contract.png)
 
 ### 3. Confusion Matrix
-![Confusion Matrix](./images/confusion_matrix.png)
+![Confusion Matrix](./Images/confusion_matrix.png)
 
 ### 4. Customer Targeting Performance
-![Customer Targeting Performance](./images/churn_targeting_performance.png)
+![Customer Targeting Performance](./Images/churn_targeting_performance.png)
 
 
 
